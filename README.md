@@ -2,7 +2,7 @@
 This repository contains the implementation of the Optimization for DataScience UniPD first homework, about the efficiency of block coordinates gradient descent methods.
 
 ## Author
-Roberto Vicentini mat. \n
+Roberto Vicentini mat. 2055532
 Giovanni Piva mat. 
 
 ## Implementation
