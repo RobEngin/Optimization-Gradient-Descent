@@ -1,5 +1,3 @@
-Certainly, I'd be happy to help you create a README file for your GitHub repository based on the information provided. Here's a draft of the README in English, divided into sections for the two projects:
-
 # Gradient Descent Optimization Projects
 
 This repository contains two projects focused on gradient descent optimization techniques, completed in 2023 and 2024. These projects demonstrate the application of various gradient descent methods to both synthetic and real-world datasets.
